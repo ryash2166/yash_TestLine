@@ -26,8 +26,13 @@ A **React-based Quiz Application** with interactive UI and smooth animations usi
    ```
 3. **Run the application:**
    ```bash
-   npm start
+   npm run dev
    ```
+4. **Run the backend server:**
+    ```bash
+   node server.js
+   ```
+
 
 ## Effects & Animations
 
