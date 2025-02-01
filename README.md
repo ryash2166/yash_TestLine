@@ -61,10 +61,6 @@ A **React-based Quiz Application** with interactive UI and smooth animations usi
  ├──  index.jsx     # Entry Point
 ```
 
-## License
-
-This project is licensed under the **MIT License**.
-
 ---
 Enjoy coding! 🚀
 
