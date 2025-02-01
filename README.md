@@ -66,4 +66,4 @@ Enjoy coding! 🚀
 
 ## UI Video
 
-https://jam.dev/c/2dedbe60-4eac-4382-be6d-44cb15813c91
+https://jam.dev/c/fec8290d-7c79-4728-a344-af29bfcedb07
