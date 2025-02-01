@@ -38,7 +38,7 @@ A **React-based Quiz Application** with interactive UI and smooth animations usi
 | Effect | Description |
 |--------|-------------|
 |  Confetti Effect | Triggers when selecting the correct answer. |
-|  Shake Effect | Briefly shakes the screen for wrong answers. |
+|  Shake Effect | Briefly shakes the  for wrong answers and also show a correct answers for better experience. |
 |  Timer Animation | Counts down for each question. |
 |  Progress Bar | Smoothly fills as the quiz progresses. |
 |  Page Transition | Slides between questions for a seamless experience. |
