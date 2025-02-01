@@ -1,4 +1,3 @@
-# yash_TestLine
 # Quiz App
 
 A **React-based Quiz Application** with interactive UI and smooth animations using **Framer Motion**. The app includes a timer, progress bar, and animated effects for both correct and incorrect answers.
